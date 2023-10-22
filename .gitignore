@@ -1,0 +1,12 @@
+/arc
+/cmd/arc/arc
+/dist/
+/vendor/
+
+.DS_Store
+_gitignore
+__debug_bin
+.idea
+builds/
+*.test
+.*.sw*
